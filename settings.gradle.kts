@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Compose Animation"
 include(":app")
- 
+include(":library")
